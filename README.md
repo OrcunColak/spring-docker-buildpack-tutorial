@@ -10,6 +10,7 @@ or
 kubectl apply -f .\deployment.yaml
 kubectl delete -f deployment.yaml
 
+Go to
 http://localhost:8080/actuator
 
 
